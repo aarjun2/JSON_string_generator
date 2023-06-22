@@ -54,6 +54,7 @@ Go to the project directory
 #### Why am i getting multiple exits and multiple add pairs?
 
 Refere to images below: Each level of exit refers to each level of nesting. In the below example, the two exits refer to the two arrays that are nested, the first exit indicated that I want done appending to the 789 array, the second intended it for the 456 array. The multiple add key value pair refer to each level of objects such as cd, ef, and gh.
+
 <img width="301" alt="image" src="https://github.com/aarjun2/JSON_string_generator/assets/136024177/45041645-bea2-48d1-9540-28f834d9e1f7">
 <img width="397" alt="image" src="https://github.com/aarjun2/JSON_string_generator/assets/136024177/f75908ef-38e1-447c-88ee-bc6ebd5b726d">
 
