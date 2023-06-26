@@ -4,9 +4,6 @@
 #include <iomanip>
 #include <fstream>
 using namespace std;
-//wants it in both file and string format
-//display string after every program, have a file that stores all the strings
-//have option to clear or reset file
 
 /* Intially, the process array is called under the array case and 
 * process input is called under the object case to recursively handle nested
